@@ -1,0 +1,9 @@
+-TEMT6000 Ambient light sensor
+-Soil humidity sensor.
+-Micro servo motor 9G.
+-Motion sensor.
+-3W LED Module.
+-Digital Buzzer Module
+-The DTH11 is a basic, ultra low-cost digital temperature and humidity sensor. Den här sensorn behövde ett bibliotek DTH. https://learn.adafruit.com/dht  
+-8 x 2 LCD Module 0802 Character Display Screen. Och den här skärmen behövde ett bibliotek för att fungera. https://github.com/dhylands/python_lcd/tree/master/lcd
+-Pycom device and lopy4
